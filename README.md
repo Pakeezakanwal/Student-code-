@@ -1,2 +1,2 @@
-# Student-code-
+# Student-code
 This is my first Git Repository.
